@@ -25691,55 +25691,6 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20261001093000 +0800" stop="20261001110000 +0800" channel="GMA.ph">
-    <title lang="en">Kapuso Movie Festival</title>
-  </programme>
-  <programme start="20261001110000 +0800" stop="20261001120000 +0800" channel="GMA.ph">
-    <title lang="en">Tiktoclock</title>
-  </programme>
-  <programme start="20261001120000 +0800" stop="20261001143000 +0800" channel="GMA.ph">
-    <title lang="en">It's Showtime</title>
-    <category lang="en">Game</category>
-    <category lang="en">Variety Show</category>
-  </programme>
-  <programme start="20261001143000 +0800" stop="20261001152000 +0800" channel="GMA.ph">
-    <title lang="en">Born To Shine</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261001152000 +0800" stop="20261001160500 +0800" channel="GMA.ph">
-    <title lang="en">Kamao</title>
-    <category lang="en">Action/Adventure</category>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261001160500 +0800" stop="20261001163000 +0800" channel="GMA.ph">
-    <title lang="en">Fast Talk with Boy Abunda</title>
-    <category lang="en">Talk</category>
-  </programme>
-  <programme start="20261001163000 +0800" stop="20261001171000 +0800" channel="GMA.ph">
-    <title lang="en">Maria Clara At Ibarra</title>
-    <category lang="en">Drama</category>
-    <category lang="en">Biography</category>
-  </programme>
-  <programme start="20261001171000 +0800" stop="20261001174000 +0800" channel="GMA.ph">
-    <title lang="en">Arthdal Chronicles</title>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20261001174000 +0800" stop="20261001183000 +0800" channel="GMA.ph">
-    <title lang="en">Family Feud</title>
-    <category lang="en">Game</category>
-  </programme>
-  <programme start="20261001183000 +0800" stop="20261001200000 +0800" channel="GMA.ph">
-    <title lang="en">24 Oras</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261001200000 +0800" stop="20261001205000 +0800" channel="GMA.ph">
-    <title lang="en">The Master Cutter</title>
-    <category lang="en">Action/Adventure</category>
-  </programme>
-  <programme start="20261001205000 +0800" stop="20261001213500 +0800" channel="GMA.ph">
-    <title lang="en">Task Force Firewall</title>
-    <category lang="en">Action/Adventure</category>
-  </programme>
   <programme start="20261001213500 +0800" stop="20261001221000 +0800" channel="GMA.ph">
     <title lang="en">Love, Siargao</title>
     <category lang="en">Drama</category>
@@ -25752,21 +25703,58 @@
     <title lang="en">The Kinnaree Conspiracy</title>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261001020000 +0800" stop="20261001034500 +0800" channel="Kapamilya.Channel.ph">
+  <programme start="20261001205000 +0800" stop="20261001223000 +0800" channel="GTV.ph">
+    <title lang="en">G! Flicks</title>
+    <category lang="en">Teens</category>
+  </programme>
+  <programme start="20261001223000 +0800" stop="20261001230500 +0800" channel="GTV.ph">
+    <title lang="en">Task Force Firewall</title>
+    <category lang="en">Action/Adventure</category>
+  </programme>
+  <programme start="20261001230500 +0800" stop="20261001232500 +0800" channel="GTV.ph">
+    <title lang="en">State Of The Nation</title>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20261001213000 +0800" stop="20261001221500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">A Secret In Prague</title>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261001221500 +0800" stop="20261001224500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Falling Into Your Smile</title>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20261001224500 +0800" stop="20261001231500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The World Tonight</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20261001231500 +0800" stop="20261002020000 +0800" channel="Kapamilya.Channel.ph">
     <title lang="en">Movie Central Presents</title>
     <category lang="en">Special</category>
   </programme>
-  <programme start="20261001000000 +0800" stop="20261001010000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">Forbidden Fruit S2</title>
-    <category lang="en">Drama</category>
+  <programme start="20261002020000 +0800" stop="20261002034500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
+    <category lang="en">Special</category>
   </programme>
-  <programme start="20261001010000 +0800" stop="20261001020000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">Forbidden Fruit S2</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261001020000 +0800" stop="20261001040000 +0800" channel="Solar.Flix.ph">
-    <title lang="en">Hayop Sa Ganda</title>
+  <programme start="20261001220000 +0800" stop="20261002000000 +0800" channel="Solar.Flix.ph">
+    <title lang="en">Kulang Ka Lang Sa Lambing</title>
+    <credits>
+      <actor>Sabrina M.</actor>
+    </credits>
     <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Sexy</category>
+  </programme>
+  <programme start="20261002000000 +0800" stop="20261002010000 +0800" channel="Solar.Flix.ph">
+    <title lang="en">Forbidden Fruit S2</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261002010000 +0800" stop="20261002020000 +0800" channel="Solar.Flix.ph">
+    <title lang="en">Forbidden Fruit S2</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261002020000 +0800" stop="20261002040000 +0800" channel="Solar.Flix.ph">
+    <title lang="en">Makamandag Na Bango</title>
   </programme>
   <channel id="Astro.Premier.my">
     <display-name lang="en">Astro Premier</display-name>
@@ -68351,198 +68339,6 @@
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">MN+ HD</display-name>
   </channel>
-  <programme channel="ROMEDY.NOW.in" start="20261001073500 +0530" stop="20261001093800 +0530">
-    <title lang="en">P.S. I Love You</title>
-    <desc lang="en">A young woman loses her husband to an illness. However, her life takes a turn when she learns that he has left her some messages to ease her pain.</desc>
-    <credits>
-      <actor>Hilary Swank</actor>
-      <actor>Gerard Butler</actor>
-      <actor>Lisa Kudrow</actor>
-      <actor>Gina Gershon</actor>
-      <actor>James Marsters</actor>
-      <actor>Kathy Bates</actor>
-      <actor>Harry Connick Jr.</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Nellie McKay</actor>
-      <actor>Dean Winters</actor>
-      <actor>Anne Kent</actor>
-      <actor>Brian McGrath</actor>
-      <actor>Sherie Rene Scott</actor>
-      <actor>Susan Blackwell</actor>
-      <actor>Michael Countryman</actor>
-      <director>Richard LaGravenese</director>
-      <producer>Wendy Finerman</producer>
-      <producer>Broderick Johnson</producer>
-      <producer>Andrew A. Kosove</producer>
-      <producer>Molly Smith</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Romance</category>
-    <icon src="https://dtil.tmsimg.com/assets/p170981_v_h9_ap.jpg?lock=880x660" />
-  </programme>
-  <programme channel="ROMEDY.NOW.in" start="20261001093800 +0530" stop="20261001112400 +0530">
-    <title lang="en">The Bounty Hunter</title>
-    <desc lang="en">Milo is hired to track down his ex-wife, Nicole, for skipping bail. Subsequently, a routine retrieval turns into a deadly game of cat and mouse, forcing them both to go on the run together.</desc>
-    <credits>
-      <actor>Jennifer Aniston</actor>
-      <actor>Gerard Butler</actor>
-      <actor>Christine Baranski</actor>
-      <actor>Jason Sudeikis</actor>
-      <actor>Jeff Garlin</actor>
-      <actor>Ritchie Coster</actor>
-      <actor>Cathy Moriarty</actor>
-      <actor>Peter Greene</actor>
-      <actor>Joel Marsh Garland</actor>
-      <actor>Dorian Missick</actor>
-      <actor>Siobhan Fallon</actor>
-      <actor>Carol Kane</actor>
-      <actor>Adam Rose</actor>
-      <actor>Matt Malloy</actor>
-      <actor>Jason Kolotouros</actor>
-      <actor>j Joe Polito</actor>
-      <director>Andy Tennant</director>
-      <producer>Neal H. Moritz</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://dtil.tmsimg.com/assets/p7884722_v_h9_ap.jpg?lock=880x660" />
-  </programme>
-  <programme channel="ROMEDY.NOW.in" start="20261001112400 +0530" stop="20261001130500 +0530">
-    <title lang="en">The Smurfs</title>
-    <desc lang="en">While trying to escape the evil wizard Gargamel, the blue-skinned Smurfs get sucked into a vortex that teleports them to New York. Thereafter, they try their best to find a way back home.</desc>
-    <credits>
-      <actor>Hank Azaria</actor>
-      <actor>Neil Patrick Harris</actor>
-      <actor>Jayma Mays</actor>
-      <actor>Sofía Vergara</actor>
-      <actor>Tim Gunn</actor>
-      <actor>Jonathan Winters</actor>
-      <actor>Alan Cumming</actor>
-      <actor>Katy Perry</actor>
-      <actor>Fred Armisen</actor>
-      <actor>George Lopez</actor>
-      <actor>Anton Yelchin</actor>
-      <actor>Kenan Thompson</actor>
-      <actor>Jeff Foxworthy</actor>
-      <actor>John Oliver</actor>
-      <actor>Wolfgang Puck</actor>
-      <actor>Gary Basaraba</actor>
-      <actor>Paul Reubens</actor>
-      <actor>B.J. Novak</actor>
-      <actor>Frank Welker</actor>
-      <director>Raja Gosnell</director>
-      <producer>Jordan Kerner</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Fantasy</category>
-    <icon src="https://dtil.tmsimg.com/assets/p8554187_v_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="ROMEDY.NOW.in" start="20261001130500 +0530" stop="20261001145000 +0530">
-    <title lang="en">Letters to Juliet</title>
-    <desc lang="en">Sophie, an aspiring writer assisted by the secretaries of Juliet, sets out to unite Claire with her long-lost love. While on her journey, she finds herself drawn to Claire's grandson.</desc>
-    <credits>
-      <actor>Amanda Seyfried</actor>
-      <actor>Vanessa Redgrave</actor>
-      <actor>Christopher Egan</actor>
-      <actor>Gael García Bernal</actor>
-      <actor>Franco Nero</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Luisa Ranieri</actor>
-      <actor>Marcia DeBonis</actor>
-      <director>Gary Winick</director>
-      <producer>Caroline Kaplan</producer>
-      <producer>Ellen Barkin</producer>
-      <producer>Mark Canton</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Drama</category>
-    <icon src="https://dtil.tmsimg.com/assets/p7886534_v_h9_ad.jpg?lock=880x660" />
-  </programme>
-  <programme channel="ROMEDY.NOW.in" start="20261001145000 +0530" stop="20261001164900 +0530">
-    <title lang="en">Crazy Rich Asians</title>
-    <desc lang="en">A professor's world turns upside down when she discovers that her longtime boyfriend belongs to an eccentric, super rich family of business moguls.</desc>
-    <credits>
-      <actor>Constance Wu</actor>
-      <actor>Henry Golding</actor>
-      <actor>Michelle Yeoh</actor>
-      <actor>Gemma Chan</actor>
-      <actor>Lisa Lu</actor>
-      <actor>Awkwafina</actor>
-      <actor>Harry Shum Jr.</actor>
-      <actor>Ken Jeong</actor>
-      <actor>Sonoya Mizuno</actor>
-      <actor>Chris Pang</actor>
-      <actor>Jimmy O. Yang</actor>
-      <actor>Ronny Chieng</actor>
-      <actor>Remy Hii</actor>
-      <actor>Nico Santos</actor>
-      <actor>Jing Lusi</actor>
-      <actor>Carmen Soo</actor>
-      <actor>Pierre Png</actor>
-      <actor>Fiona Xie</actor>
-      <actor>Victoria Loke</actor>
-      <actor>Janice Koh</actor>
-      <director>Jon M. Chu</director>
-      <producer>Nina Jacobson</producer>
-      <producer>Brad Simpson</producer>
-      <producer>John Penotti</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Rom-Com</category>
-    <icon src="https://dtil.tmsimg.com/assets/p14775182_v_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="ROMEDY.NOW.in" start="20261001164900 +0530" stop="20261001184800 +0530">
-    <title lang="en">Bridget Jones's Baby</title>
-    <desc lang="en">After breaking up with Mark, Bridget meets a handsome stranger, Jack. Soon, Bridget finds out that she is pregnant but is unsure about the identity of the father.</desc>
-    <credits>
-      <actor>Renée Zellweger</actor>
-      <actor>Colin Firth</actor>
-      <actor>Patrick Dempsey</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Shirley Henderson</actor>
-      <actor>Jim Broadbent</actor>
-      <actor>Celia Imrie</actor>
-      <actor>James Callis</actor>
-      <actor>Sarah Solemani</actor>
-      <actor>Gemma Jones</actor>
-      <actor>Sally Phillips</actor>
-      <actor>Ed Sheeran</actor>
-      <director>Sharon Maguire</director>
-      <producer>Tim Bevan</producer>
-      <producer>Eric Fellner</producer>
-      <producer>Debra Hayward</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Drama</category>
-    <icon src="https://dtil.tmsimg.com/assets/p12230485_v_h9_ak.jpg?lock=880x660" />
-  </programme>
-  <programme channel="ROMEDY.NOW.in" start="20261001184800 +0530" stop="20261001210000 +0530">
-    <title lang="en">The Holiday</title>
-    <desc lang="en">Amanda and Iris, two women from different countries, decide to swap houses for the Christmas holidays. However, things take a turn when the swap brings them an unexpected dose of romance.</desc>
-    <credits>
-      <actor>Cameron Diaz</actor>
-      <actor>Kate Winslet</actor>
-      <actor>Jude Law</actor>
-      <actor>Jack Black</actor>
-      <actor>Eli Wallach</actor>
-      <actor>Edward Burns</actor>
-      <actor>Rufus Sewell</actor>
-      <actor>Shannyn Sossamon</actor>
-      <actor>Miffy Englefield</actor>
-      <actor>Emma Pritchard</actor>
-      <actor>Sarah Parish</actor>
-      <actor>Bill Macy</actor>
-      <actor>Shelley Berman</actor>
-      <actor>Kathryn Hahn</actor>
-      <actor>John Krasinski</actor>
-      <director>Nancy Meyers</director>
-      <producer>Nancy Meyers</producer>
-      <producer>Bruce A. Block</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Rom-Com</category>
-    <icon src="https://dtil.tmsimg.com/assets/p162526_v_h9_an.jpg?lock=880x660" />
-  </programme>
   <programme channel="ROMEDY.NOW.in" start="20261001210000 +0530" stop="20261001225600 +0530">
     <title lang="en">Blended</title>
     <desc lang="en">After a terrible blind date, Jim and Lauren find themselves stranded at a resort together with their respective children. However, the two soon start developing feelings for each other.</desc>
@@ -68745,207 +68541,191 @@
     <category lang="en">Comedy</category>
     <icon src="https://dtil.tmsimg.com/assets/p11877509_v_h9_aa.jpg?lock=880x660" />
   </programme>
-  <programme channel="MN+.HD.in" start="20261001091000 +0530" stop="20261001104500 +0530">
-    <title lang="en">Lady Bloodfight</title>
-    <desc lang="en">Jane, an American girl travelling in Hong Kong, gets into a physical altercation with three robbers where she defends herself. A martial artist, who observes the event, trains her for a competition.</desc>
+  <programme channel="ROMEDY.NOW.in" start="20261002101700 +0530" stop="20261002120100 +0530">
+    <title lang="en">Yes Man</title>
+    <desc lang="en">Carl, a lonely man with low self-esteem, participates in a self-help programme that challenges him to say yes to everything in life for an entire year.</desc>
     <credits>
-      <actor>Amy Johnston</actor>
-      <actor>Jenny Wu</actor>
-      <actor>Muriel Hofmann</actor>
-      <actor>Kathy Wu</actor>
-      <actor>Chalinene Bassinah</actor>
-      <actor>Lisa Cheng</actor>
-      <actor>Sunny Coelst</actor>
-      <actor>Dale Crawford</actor>
-      <actor>Jai Day</actor>
-      <actor>Joe Fiorello</actor>
-      <director>Chris Nahon</director>
-      <producer>Justin Bursch</producer>
-      <producer>Nicolas Chartier</producer>
-      <producer>Babacar Diene</producer>
-      <producer>Zev Foreman</producer>
-      <producer>Bey Logan</producer>
+      <actor>Jim Carrey</actor>
+      <actor>Zooey Deschanel</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>John Michael Higgins</actor>
+      <actor>Rhys Darby</actor>
+      <actor>Danny Masterson</actor>
+      <actor>Fionnula Flanagan</actor>
+      <actor>Terence Stamp</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Molly Sims</actor>
+      <actor>Brent Briscoe</actor>
+      <actor>Rocky Carroll</actor>
+      <actor>John Cothran</actor>
+      <actor>Spencer Garrett</actor>
+      <actor>Patrick Laborteaux</actor>
+      <actor>Jamie Denbo</actor>
+      <director>Peyton Reed</director>
+      <producer>Richard D. Zanuck</producer>
+      <producer>David Heyman</producer>
     </credits>
     <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <icon src="https://dtil.tmsimg.com/assets/p13632204_v_h9_ah.jpg?lock=880x660" />
+    <category lang="en">Comedy</category>
+    <icon src="https://dtil.tmsimg.com/assets/p176708_v_h9_aq.jpg?lock=880x660" />
   </programme>
-  <programme channel="MN+.HD.in" start="20261001104500 +0530" stop="20261001122700 +0530">
-    <title lang="en">Charlie Countryman</title>
-    <desc lang="en">Charlie's deceased mum's spirit sends him to Bucharest, where he fulfils a promise to a fellow passenger who dies mid-flight.</desc>
+  <programme channel="ROMEDY.NOW.in" start="20261002120100 +0530" stop="20261002135200 +0530">
+    <title lang="en">Monte Carlo</title>
+    <desc lang="en">Grace, who is vacationing in Paris with her friends and stepsister, is mistaken for a British heiress. Later, the three women are whisked away to Monte Carlo, where they discover royalty and romance.</desc>
     <credits>
-      <actor>Shia LaBeouf</actor>
-      <actor>Evan Rachel Wood</actor>
-      <actor>Mads Mikkelsen</actor>
-      <actor>John Hurt</actor>
-      <actor>Rupert Grint</actor>
-      <actor>Vincent D'Onofrio</actor>
-      <actor>Melissa Leo</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Leighton Meester</actor>
+      <actor>Katie Cassidy</actor>
+      <actor>Cory Monteith</actor>
+      <actor>Andie MacDowell</actor>
+      <actor>Catherine Tate</actor>
+      <actor>Pierre Boulanger</actor>
+      <actor>Luke Bracey</actor>
+      <actor>Brett Cullen</actor>
+      <actor>Amanda Fairbank-Hynes</actor>
+      <actor>Valérie Lemercier</actor>
+      <actor>Christophe Malavoy</actor>
+      <actor>Giulio Berruti</actor>
+      <director>Thomas Bezucha</director>
+      <producer>Arnon Milchan</producer>
+      <producer>Denise Di Novi</producer>
+      <producer>Alison Greenspan</producer>
+      <producer>Nicole Kidman</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Rom-Com</category>
+    <icon src="https://dtil.tmsimg.com/assets/p8238161_v_h9_ai.jpg?lock=880x660" />
+  </programme>
+  <programme channel="ROMEDY.NOW.in" start="20261002135200 +0530" stop="20261002151800 +0530">
+    <title lang="en">Mune</title>
+    <desc lang="en">Necross, the former guardian of the sun, turns evil and steals it. Now, Mune, Glim and Sohone, three friends, must work together to retrieve it from him.</desc>
+    <credits>
+      <actor>Omar Sy</actor>
+      <actor>Izïa Higelin</actor>
+      <actor>Michael Gregorio</actor>
+      <actor>Benoît Allemane</actor>
+      <actor>Féodor Atkine</actor>
+      <actor>Joshua Ballard</actor>
+      <actor>Trevor Devall</actor>
+      <actor>Damien Boisseau</actor>
+      <director>Alexandre Heboyan</director>
+      <director>Benoît Philippon</director>
+      <producer>Frédérique Dumas-Zajdela</producer>
+      <producer>Grégoire Melin</producer>
+      <producer>Dimitri Rassam</producer>
+      <producer>Aton Soumache</producer>
+      <producer>Alexis Vonarb</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Animation</category>
+    <icon src="https://dtil.tmsimg.com/assets/p11695589_v_h9_ah.jpg?lock=880x660" />
+  </programme>
+  <programme channel="ROMEDY.NOW.in" start="20261002151800 +0530" stop="20261002170500 +0530">
+    <title lang="en">Shall We Dance?</title>
+    <desc lang="en">John Clark, a lawyer, finds his marriage losing its spark. In an attempt to find a new passion for himself, he enrols in a dance studio where Paulina catches his eye.</desc>
+    <credits>
+      <actor>Richard Gere</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Susan Sarandon</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Lisa Ann Walter</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Anita Gillette</actor>
+      <actor>Stark Sands</actor>
+      <actor>Tamara Hope</actor>
+      <actor>Ja Rule</actor>
+      <actor>Nick Cannon</actor>
+      <actor>Mýa</actor>
+      <director>Peter Chelsom</director>
+      <producer>Jessica Kane Berman</producer>
+      <producer>Simon Fields</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://dtil.tmsimg.com/assets/p34937_v_h9_ai.jpg?lock=880x660" />
+  </programme>
+  <programme channel="ROMEDY.NOW.in" start="20261002170500 +0530" stop="20261002190400 +0530">
+    <title lang="en">New Year's Eve</title>
+    <desc lang="en">As the New Year approaches, the eve results in a distinct variety of couples and single people's journeys and stories intertwining.</desc>
+    <credits>
+      <actor>Halle Berry</actor>
+      <actor>Jessica Biel</actor>
+      <actor>Jon Bon Jovi</actor>
+      <actor>Abigail Breslin</actor>
+      <actor>Ludacris</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Zac Efron</actor>
+      <actor>Héctor Elizondo</actor>
+      <actor>Katherine Heigl</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Seth Meyers</actor>
+      <actor>Lea Michele</actor>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Michelle Pfeiffer</actor>
       <actor>Til Schweiger</actor>
-      <actor>James Buckley</actor>
-      <director>Fredrik Bond</director>
-      <producer>Albert Berger</producer>
-      <producer>Ron Yerxa</producer>
-      <producer>Craig J. Flores</producer>
-      <producer>William Horberg</producer>
+      <actor>Hilary Swank</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Alyssa Milano</actor>
+      <actor>Common</actor>
+      <actor>Sarah Paulson</actor>
+      <actor>Carla Gugino</actor>
+      <actor>Penny Marshall</actor>
+      <actor>Fiona Choi</actor>
+      <director>Garry Marshall</director>
+      <producer>Mike Karz</producer>
+      <producer>Wayne Allan Rice</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Rom-Com</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+  </programme>
+  <programme channel="ROMEDY.NOW.in" start="20261002190400 +0530" stop="20261002210000 +0530">
+    <title lang="en">The Notebook</title>
+    <desc lang="en">Duke reads the story of Allie and Noah, two lovers who were separated by fate, to Ms Hamilton, an old woman who suffers from dementia, on a daily basis out of his notebook.</desc>
+    <credits>
+      <actor>Ryan Gosling</actor>
+      <actor>Rachel McAdams</actor>
+      <actor>James Garner</actor>
+      <actor>Gena Rowlands</actor>
+      <actor>James Marsden</actor>
+      <actor>Kevin Connolly</actor>
+      <actor>Sam Shepard</actor>
+      <actor>Joan Allen</actor>
+      <actor>David Thornton</actor>
+      <actor>Jamie Anne Allman</actor>
+      <actor>Heather Wahlquist</actor>
+      <director>Nick Cassavetes</director>
+      <producer>Mark Johnson</producer>
+      <producer>Lynn Harris</producer>
     </credits>
     <category lang="en">Film</category>
     <category lang="en">Romance</category>
-    <icon src="https://dtil.tmsimg.com/assets/p10026405_v_h9_ap.jpg?lock=880x660" />
+    <icon src="https://dtil.tmsimg.com/assets/p33410_v_h9_ad.jpg?lock=880x660" />
   </programme>
-  <programme channel="MN+.HD.in" start="20261001122700 +0530" stop="20261001150300 +0530">
-    <title lang="en">Once Upon a Time... In Hollywood</title>
-    <desc lang="en">Rick, a fading actor, and Cliff, his stunt double, struggle to find relevant work in Hollywood and go through various twists and turns in order to restart their careers.</desc>
+  <programme channel="ROMEDY.NOW.in" start="20261002210000 +0530" stop="20261002223000 +0530">
+    <title lang="en">Laws of Attraction</title>
+    <desc lang="en">New-York based lawyers Audrey and Daniel, who often compete against each other, get married. However, they find it difficult to learn to draw lines between their personal and professional lives.</desc>
     <credits>
-      <actor>Leonardo DiCaprio</actor>
-      <actor>Brad Pitt</actor>
-      <actor>Margot Robbie</actor>
-      <actor>Kurt Russell</actor>
-      <actor>Dakota Fanning</actor>
-      <actor>Damon Herriman</actor>
-      <actor>Austin Butler</actor>
-      <actor>Emile Hirsch</actor>
-      <actor>Scoot McNairy</actor>
-      <actor>Luke Perry</actor>
-      <actor>Al Pacino</actor>
-      <actor>Nicholas Hammond</actor>
-      <actor>Spencer Garrett</actor>
-      <actor>Mike Moh</actor>
-      <actor>Lena Dunham</actor>
-      <actor>Damian Lewis</actor>
-      <actor>Bruce Dern</actor>
-      <actor>Timothy Olyphant</actor>
-      <actor>Zoe Bell</actor>
-      <actor>Michael Madsen</actor>
-      <actor>James Remar</actor>
-      <actor>Brenda Vaccaro</actor>
-      <actor>Margaret Qualley</actor>
-      <actor>Julia Butters</actor>
-      <actor>Samantha Robinson</actor>
-      <actor>Lorenza Izzo</actor>
-      <actor>Costa Ronin</actor>
-      <actor>Rumer Willis</actor>
-      <actor>Rafał Zawierucha</actor>
-      <actor>Clifton Collins Jr.</actor>
-      <actor>Keith Jefferson</actor>
-      <actor>Maya Hawke</actor>
-      <actor>Sydney Sweeney</actor>
-      <actor>Dreama Walker</actor>
-      <actor>Victoria Pedretti</actor>
-      <actor>Madisen Beaty</actor>
-      <director>Quentin Tarantino</director>
-      <producer>David Heyman</producer>
-      <producer>Shannon McIntosh</producer>
-      <producer>Quentin Tarantino</producer>
+      <actor>Pierce Brosnan</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Michael Sheen</actor>
+      <actor>Parker Posey</actor>
+      <actor>Frances Fisher</actor>
+      <actor>Nora Dunn</actor>
+      <actor>Sara Gilbert</actor>
+      <actor>Mike Doyle</actor>
+      <director>Peter Howitt</director>
+      <producer>Marc Turtletaub</producer>
+      <producer>Beau St. Clair</producer>
+      <producer>Julie Durk</producer>
+      <producer>David Bergstein</producer>
     </credits>
     <category lang="en">Film</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://dtil.tmsimg.com/assets/p15226224_v_h9_ad.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MN+.HD.in" start="20261001150300 +0530" stop="20261001164900 +0530">
-    <title lang="en">The Family Fang</title>
-    <desc lang="en">After the police inform them about their parents' mysterious disappearance, two siblings embark on a mission to uncover the truth.</desc>
-    <credits>
-      <actor>Nicole Kidman</actor>
-      <actor>Jason Bateman</actor>
-      <actor>Christopher Walken</actor>
-      <actor>Maryann Plunkett</actor>
-      <actor>Jason Butler Harner</actor>
-      <actor>Harris Yulin</actor>
-      <actor>Linda Emond</actor>
-      <actor>Ali Wentworth</actor>
-      <actor>Michael Chernus</actor>
-      <actor>Marin Ireland</actor>
-      <actor>Danny Burstein</actor>
-      <actor>Gabriel Ebert</actor>
-      <actor>Kathryn Hahn</actor>
-      <actor>Scott Shepherd</actor>
-      <actor>Steve Witting</actor>
-      <director>Jason Bateman</director>
-      <producer>Daniela Taplin Lundberg</producer>
-      <producer>Riva Marker</producer>
-      <producer>Nicole Kidman</producer>
-      <producer>Per Saari</producer>
-      <producer>Leslie Urdang</producer>
-      <producer>Dean Vanech</producer>
-      <producer>Jason Bateman</producer>
-      <producer>James Garavente</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Mystery</category>
-    <icon src="https://dtil.tmsimg.com/assets/p12714984_v_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MN+.HD.in" start="20261001164900 +0530" stop="20261001184800 +0530">
-    <title lang="en">Long Shot</title>
-    <desc lang="en">Fred Flarsky crosses paths with his childhood crush, who is now an influential person. Later, when she hires him as her speechwriter, they fall in love.</desc>
-    <credits>
-      <actor>Charlize Theron</actor>
-      <actor>Seth Rogen</actor>
-      <actor>June Diane Raphael</actor>
-      <actor>O'Shea Jackson Jr.</actor>
-      <actor>Ravi Patel</actor>
-      <actor>Bob Odenkirk</actor>
-      <actor>Andy Serkis</actor>
-      <actor>Randall Park</actor>
-      <actor>Tristan D. Lalla</actor>
-      <actor>Alexander Skarsgård</actor>
-      <actor>Kurt Braunohler</actor>
-      <actor>Claudia O'Doherty</actor>
-      <actor>Paul Scheer</actor>
-      <actor>Aladeen Tawfeek</actor>
-      <actor>Nathan Morris</actor>
-      <actor>Wanya Morris</actor>
-      <actor>Shawn Stockman</actor>
-      <actor>Isla Dowling</actor>
-      <actor>Aviva Mongillo</actor>
-      <actor>Braxton Herda</actor>
-      <actor>Anton Kovalenko</actor>
-      <actor>Marcel Jeannin</actor>
-      <actor>Lisa Kudrow</actor>
-      <actor>Daniel Rindress-Kay</actor>
-      <actor>Ivan Smith</actor>
-      <actor>Sean Tucker</actor>
-      <actor>Lil Yachty</actor>
-      <actor>Holden Wong</actor>
-      <director>Jonathan Levine</director>
-      <producer>Charlize Theron</producer>
-      <producer>A.J. Dix</producer>
-      <producer>Beth Kono</producer>
-      <producer>Evan Goldberg</producer>
-      <producer>Seth Rogen</producer>
-      <producer>James Weaver</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://dtil.tmsimg.com/assets/p15832478_v_h9_ad.jpg?lock=880x660" />
-  </programme>
-  <programme channel="MN+.HD.in" start="20261001184800 +0530" stop="20261001210000 +0530">
-    <title lang="en">Captain Phillips</title>
-    <desc lang="en">Somali pirates attack the Maersk Alabama, a container ship, while it is on its course to Kenya. Richard Phillips, the captain of the ship, uses his wits to negotiate with them to save his crew.</desc>
-    <credits>
-      <actor>Tom Hanks</actor>
-      <actor>Catherine Keener</actor>
-      <actor>Barkhad Abdi</actor>
-      <actor>Barkhad Abdirahman</actor>
-      <actor>Faysal Ahmed</actor>
-      <actor>Mahat M. Ali</actor>
-      <actor>Michael Chernus</actor>
-      <actor>Corey Johnson</actor>
-      <actor>Max Martini</actor>
-      <actor>Chris Mulkey</actor>
-      <actor>Yul Vazquez</actor>
-      <actor>David Warshofsky</actor>
-      <actor>Omar Berdouni</actor>
-      <actor>Mohamed Ali</actor>
-      <actor>Issak Farah Samatar</actor>
-      <director>Paul Greengrass</director>
-      <producer>Scott Rudin</producer>
-      <producer>Dana Brunetti</producer>
-      <producer>Michael De Luca</producer>
-    </credits>
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://dtil.tmsimg.com/assets/p9968629_v_h9_ak.jpg?lock=880x660" />
+    <category lang="en">Rom-Com</category>
+    <icon src="https://dtil.tmsimg.com/assets/p33407_v_h9_aa.jpg?lock=880x660" />
   </programme>
   <programme channel="MN+.HD.in" start="20261001210000 +0530" stop="20261001230100 +0530">
     <title lang="en">The Social Network</title>
@@ -69153,6 +68933,215 @@
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <icon src="https://dtil.tmsimg.com/assets/p32988_v_h9_aq.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MN+.HD.in" start="20261002100600 +0530" stop="20261002121000 +0530">
+    <title lang="en">Kill Bill: Vol. 2</title>
+    <desc lang="en">The Bride, who's now pregnant, sets off to kill her ex-boss and lover Bill, his brother, Budd the bouncer, and one-eyed Elle.</desc>
+    <credits>
+      <actor>Uma Thurman</actor>
+      <actor>David Carradine</actor>
+      <actor>Michael Madsen</actor>
+      <actor>Daryl Hannah</actor>
+      <actor>Chia-Hui Liu</actor>
+      <actor>Michael Parks</actor>
+      <actor>Perla Haney-Jardine</actor>
+      <actor>Helen Kim</actor>
+      <actor>Claire Smithies</actor>
+      <actor>Clark Middleton</actor>
+      <actor>Laura Cayouette</actor>
+      <actor>Larry Bishop</actor>
+      <actor>Sid Haig</actor>
+      <actor>Reda Beebe</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Christopher Allen Nelson</actor>
+      <actor>Caitlin Keats</actor>
+      <actor>Jeannie Epper</actor>
+      <actor>Bo Svenson</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Vivica A. Fox</actor>
+      <actor>Sonny Chiba</actor>
+      <actor>Chiaki Kuriyama</actor>
+      <actor>Julie Dreyfus</actor>
+      <actor>Jun Kunimura</actor>
+      <actor>Akaji Maro</actor>
+      <actor>Kazuki Kitamura</actor>
+      <director>Quentin Tarantino</director>
+      <producer>Lawrence Bender</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Action</category>
+    <icon src="https://dtil.tmsimg.com/assets/p32989_v_h9_at.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MN+.HD.in" start="20261002121000 +0530" stop="20261002134700 +0530">
+    <title lang="en">Poseidon</title>
+    <desc lang="en">On New Year's Eve, the luxury ocean liner Poseidon capsizes after being swamped by a rogue wave. Later, the survivors are left to fight for their lives as they attempt to escape the sinking ship.</desc>
+    <credits>
+      <actor>Josh Lucas</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Jacinda Barrett</actor>
+      <actor>Richard Dreyfuss</actor>
+      <actor>Emmy Rossum</actor>
+      <actor>Mía Maestro</actor>
+      <actor>Mike Vogel</actor>
+      <actor>Kevin Dillon</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Jimmy Bennett</actor>
+      <actor>Andre Braugher</actor>
+      <actor>Kirk B.R. Woller</actor>
+      <actor>Kelly McNair</actor>
+      <actor>Fergie</actor>
+      <director>Wolfgang Petersen</director>
+      <producer>Duncan Henderson</producer>
+      <producer>Akiva Goldsman</producer>
+      <producer>Mike Fleiss</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Action</category>
+    <icon src="https://dtil.tmsimg.com/assets/p159724_v_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MN+.HD.in" start="20261002134700 +0530" stop="20261002162300 +0530">
+    <title lang="en">Elvis</title>
+    <desc lang="en">Whilst on a mission to transform the mainstream rock and roll culture of the USA, singer Elvis Presley uses his fame to highlight racism within the country.</desc>
+    <credits>
+      <actor>Austin Butler</actor>
+      <actor>Tom Hanks</actor>
+      <actor>Olivia DeJonge</actor>
+      <actor>Helen Thomson</actor>
+      <actor>Richard Roxburgh</actor>
+      <actor>Kelvin Harrison Jr.</actor>
+      <actor>David Wenham</actor>
+      <actor>Kodi Smit-McPhee</actor>
+      <actor>Luke Bracey</actor>
+      <actor>Dacre Montgomery</actor>
+      <actor>Leon Ford</actor>
+      <actor>Gary Clark Jr.</actor>
+      <actor>Yola</actor>
+      <actor>Natasha Bassett</actor>
+      <actor>Xavier Samuel</actor>
+      <actor>Adam Dunn</actor>
+      <actor>Alton Mason</actor>
+      <actor>Shonka Dukureh</actor>
+      <actor>David Gannon</actor>
+      <actor>Shannon Sanders</actor>
+      <actor>Charles Grounds</actor>
+      <actor>Josh McConville</actor>
+      <actor>Kate Mulvany</actor>
+      <actor>Gareth Davies</actor>
+      <actor>Chaydon Jay</actor>
+      <director>Baz Luhrmann</director>
+      <producer>Gail Berman</producer>
+      <producer>Patrick McCormick</producer>
+      <producer>Schuyler Weiss</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Biography/Biopic</category>
+    <icon src="https://dtil.tmsimg.com/assets/p21186581_v_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MN+.HD.in" start="20261002162300 +0530" stop="20261002182600 +0530">
+    <title lang="en">Inferno</title>
+    <desc lang="en">After waking up with amnesia in a hospital, Robert Langdon teams up with Sienna Brooks, one of his doctors, to protect the world from the evil plan of a scientist.</desc>
+    <credits>
+      <actor>Tom Hanks</actor>
+      <actor>Felicity Jones</actor>
+      <actor>Omar Sy</actor>
+      <actor>Irrfan Khan</actor>
+      <actor>Sidse Babett Knudsen</actor>
+      <actor>Ben Foster</actor>
+      <actor>Ana Ularu</actor>
+      <actor>Ida Darvish</actor>
+      <actor>Paolo Antonio Simioni</actor>
+      <actor>Alessandro Grimaldi</actor>
+      <actor>Fausto Maria Sciarappa</actor>
+      <actor>Robin Mugnaini</actor>
+      <actor>Paul Ritter</actor>
+      <actor>Jon Donahue</actor>
+      <director>Ron Howard</director>
+      <producer>Brian Grazer</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://dtil.tmsimg.com/assets/p12447110_v_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MN+.HD.in" start="20261002182600 +0530" stop="20261002205200 +0530">
+    <title lang="en">King Richard</title>
+    <desc lang="en">Equipped with an elaborate plan, clear vision and unwavering determination, Richard Williams, a sports coach, encourages his daughters, Venus and Serena, to become tennis champions.</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Aunjanue Ellis-Taylor</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Saniyya Sidney</actor>
+      <actor>Demi Singleton</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>Mikayla Lashae Bartholomew</actor>
+      <actor>Daniele Lawson</actor>
+      <actor>Layla Crawford</actor>
+      <actor>Erika Ringor</actor>
+      <actor>Noah Bean</actor>
+      <actor>Craig Tate</actor>
+      <actor>Josiah Cross</actor>
+      <actor>Calvin Clausell Jr.</actor>
+      <actor>Vaughn W. Hebron</actor>
+      <actor>Jimmy Walker Jr.</actor>
+      <actor>Kevin Dunn</actor>
+      <actor>Brad Greenquist</actor>
+      <actor>Johnno Wilson</actor>
+      <actor>Christopher Wallinger</actor>
+      <actor>Chase Del Rey</actor>
+      <actor>Connie Ventress</actor>
+      <actor>Andy Hoff</actor>
+      <actor>Carrie Gibson</actor>
+      <actor>Doug Simpson</actor>
+      <actor>Brandon Morales</actor>
+      <actor>Will J. Jackson</actor>
+      <actor>Erica Shaffer</actor>
+      <actor>Matt Kirkwood</actor>
+      <actor>Andy Bean</actor>
+      <actor>Judith Chapman</actor>
+      <actor>Chet Grissom</actor>
+      <actor>Dylan McDermott</actor>
+      <actor>Alden Sherrill</actor>
+      <actor>Eman Esfandi</actor>
+      <actor>Jonathan Bray</actor>
+      <actor>Robert Walker Jeffery</actor>
+      <actor>Katrina Begin</actor>
+      <actor>Rich Sommer</actor>
+      <actor>Kaitlyn Christian</actor>
+      <actor>Marcela Zacarias</actor>
+      <director>Reinaldo Marcus Green</director>
+      <producer>Tim White</producer>
+      <producer>Trevor White</producer>
+      <producer>Will Smith</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Biography/Biopic</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19440647_v_h9_ac.jpg?lock=880x660" />
+  </programme>
+  <programme channel="MN+.HD.in" start="20261002205200 +0530" stop="20261002230300 +0530">
+    <title lang="en">The Prestige</title>
+    <desc lang="en">Two friends and fellow magicians become bitter enemies after a sudden tragedy. However, as they devote themselves to this rivalry, they make sacrifices that bring them fame and terrible consequences.</desc>
+    <credits>
+      <actor>Hugh Jackman</actor>
+      <actor>Christian Bale</actor>
+      <actor>Michael Caine</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Piper Perabo</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>David Bowie</actor>
+      <actor>Samantha Mahurin</actor>
+      <actor>Andy Serkis</actor>
+      <actor>Rob Arbogast</actor>
+      <actor>Chris Cleveland</actor>
+      <actor>Edward Hibbert</actor>
+      <actor>Jamie Harris</actor>
+      <actor>William Morgan Sheppard</actor>
+      <actor>Jim Piddock</actor>
+      <director>Christopher Nolan</director>
+      <producer>Aaron Ryder</producer>
+      <producer>Emma Thomas</producer>
+    </credits>
+    <category lang="en">Film</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://dtil.tmsimg.com/assets/p161581_v_h9_ar.jpg?lock=880x660" />
   </programme>
   <channel id="Sky.Sport.Uno.it">
     <display-name lang="it">Sky Sport Uno</display-name>
